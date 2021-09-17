@@ -1,0 +1,19 @@
+iniciamos por primera vez
+    *git init => Inicia un proyecto de git en la 
+     carpeta actual
+
+    *git status => Me muestra el estado actual del repositorio
+     comparado con la ersión anterior
+
+    *git add . =>Este comando agrega todos los cambios del 
+     proyecto.
+    *git commit -m 'Iniciando repositorio'
+    
+
+
+
+
+
+
+
+Cuando el proyecto ya esta creado
