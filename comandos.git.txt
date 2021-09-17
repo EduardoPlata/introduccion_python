@@ -8,12 +8,21 @@ iniciamos por primera vez
     *git add . =>Este comando agrega todos los cambios del 
      proyecto.
     *git commit -m 'Iniciando repositorio'
-    
+
+
+    *git config --global user.email "eduardplatt77@gmail.com"
+    *git config --global user.name "Eduardo Plata"
 
 
 
 
+Cuando el proyecto ya esta creado y necesitamos realizar mdificaciones
+
+        * git add .
+        * git commit -m 'Mensaje para el commit'
+        * git push
 
 
-
-Cuando el proyecto ya esta creado
+Como clonar un repositorio
+        * git clone https://github.com/EduardoPlata/introduccion_python
+        
